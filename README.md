@@ -16,6 +16,8 @@ Play Modes
 * Human VS Human
 * Human VS AI
 * AI VS AI
+
+
 ![1](https://github.com/moaz152/Othello_AI_Player/assets/85046148/0e30fa59-1c1b-448e-952e-14a880bee488)
 ![2](https://github.com/moaz152/Othello_AI_Player/assets/85046148/ed5783c8-b927-47ed-afc4-dcac06cafdd2)
 
