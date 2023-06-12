@@ -1,8 +1,5 @@
-<br/>
-<p align="center">
   
-  <p align="center"othello AI Game</p>
-</p>
+ <p> align="center".othello AI Game</p>
 <br/><br/>
 <p>othello Game and also an AI Player for AI Competition.</p>
 <p>this project consists of a GUI for Playing Othello and also an AI Player.</p>
