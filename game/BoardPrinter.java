@@ -35,7 +35,7 @@ public class BoardPrinter extends JFrame implements GameEngine {
         this.setVisible(true);
 
         reversiBoard.repaint();
-        //this.setSize(500,500);
+        //this.setSize(500,500) ;
 
     }
 
